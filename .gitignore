@@ -1,0 +1,15 @@
+.env
+node modules
+package-lock.json
+.DS_Store
+.vscode
+.idea
+*.log
+*.env
+*.local 
+*.local.*
+*.local
+
+
+
+            
